@@ -7,6 +7,7 @@ Let's make this repo an experience sharing BLOG-like-thing where we will share o
 - avoid conio.h , the latest GCC gives errors, forget it 
 - use `C/C++ Compile Run` Extension (extension id: danielpinto8zz6.c-cpp-compile-run ) for VS-Code or VScode like IDE (like: OSS Code or VS COdium) , use keyboard shortcut F6 ; if you are interested to compile in GNU/Linux terminal, you may follow [this link](https://cseweb.ucsd.edu/classes/fa09/cse141/tutorial_gcc_gdb.html) 
 - It is a bad practice to use the goto statement of C, a teacher suggested, avoiding it
+- Online Judges are Stupid/idiot.... itai ....
 
 ## sharafat
 - At first I just used to read and read without practicing. Which is definitely a bad habit!
