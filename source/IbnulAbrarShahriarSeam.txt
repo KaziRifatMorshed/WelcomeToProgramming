@@ -1,0 +1,3 @@
+Read problem statement correctly
+Try to find mathematical solution rather than using loop. As loops take huge time and memory to execute. Mathematical solution is almost always more efficient.
+If you are working with integer type variable, try not to use something that returns double or floating point values (Eg. pow()). As it may result in unexpected behaviour.
