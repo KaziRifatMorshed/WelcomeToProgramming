@@ -1,4 +1,4 @@
 we may get an error to compile a `.c` file with GCC if it contains `#inclide "math.h"` in UNIX(simply, Linux) operating system. Add `-lm` at the last of the command (which will look like this: `gcc -o abcxyz abcxyz.c -lm`, otherwise, the GCC compiler may fail to link math.h header file
-avoid conoi.h , the latest GCC gives errors, forget it 
+avoid conio.h , the latest GCC gives errors, forget it 
 use `C/C++ Compile Run` Extension (extension id: danielpinto8zz6.c-cpp-compile-run ) for VS-Code or VScode like IDE (like: OSS Code or VS COdium) , use keyboard shortcut F6 ; if you are interested to compile in GNU/Linux terminal, you may follow [this link](https://cseweb.ucsd.edu/classes/fa09/cse141/tutorial_gcc_gdb.html) 
 It is a bad practice to use the goto statement of C, a teacher suggested, avoiding it
