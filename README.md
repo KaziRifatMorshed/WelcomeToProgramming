@@ -13,6 +13,11 @@ Let's make this repo an experience sharing BLOG-like-thing where we will share o
 - At first I just used to read and read without practicing. Which is definitely a bad habit!
 - How are you supposed to learn a software if you're afraid of an unknown button? This philosophy of mine both helped and got me into a tons of troubles.
 
+## IbnulAbrarShahriarSeam
+- Read problem statement correctly
+- Try to find mathematical solution rather than using loop. As loops take huge time and memory to execute. Mathematical solution is almost always more efficient.
+- If you are working with integer type variable, try not to use something that returns double or floating point values (Eg. pow()). As it may result in unexpected behaviour.
+
 # Contribution
 
 Let the power of words weave its magic, igniting sparks of inspiration and fostering a vibrant community united by the beauty of language. Join us on this remarkable journey of sharing, connecting, and celebrating the extraordinary impact of words in our lives.
