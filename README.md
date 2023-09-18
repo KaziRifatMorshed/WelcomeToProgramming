@@ -9,14 +9,14 @@ Let's make this repo an experience sharing BLOG-like-thing where we will share o
 - It is a bad practice to use the goto statement of C, a teacher suggested, avoiding it
 - Online Judges are Stupid/idiot/baka.... itai ....
 
-## sharafat
-- At first I just used to read and read without practicing. Which is definitely a bad habit!
-- How are you supposed to learn a software if you're afraid of an unknown button? This philosophy of mine both helped and got me into a tons of troubles.
-
 ## IbnulAbrarShahriarSeam
 - Read the problem statement carefully.
 - Try to find a mathematical solution rather than using a loop. Loops take a huge amount of time and memory to execute. A mathematical solution is almost always more efficient.
 - If you are working with an integer-type variable, try not to use something that returns double or floating-point values (e.g., pow()). As it may result in unexpected behavior.
+
+## sharafat
+- At first I just used to read and read without practicing. Which is definitely a bad habit!
+- How are you supposed to learn a software if you're afraid of an unknown button? This philosophy of mine both helped and got me into a tons of troubles.
 
 # Contribution
 
