@@ -2,6 +2,11 @@
 Let's make this repo an experience sharing BLOG-like-thing where we will share our experiences of getting stucked or encountering errors as beginner (new programmer) (self solved or solved by frnd in inbox)
 
 
+## IbnulAbrarShahriarSeam
+- Read the problem statement carefully.
+- Try to find a mathematical solution rather than using a loop. Loops take a huge amount of time and memory to execute. A mathematical solution is almost always more efficient.
+- If you are working with an integer-type variable, try not to use something that returns double or floating-point values (e.g., pow()). As it may result in unexpected behavior.
+
 ## sharafat
 - At first I just used to read and read without practicing. Which is definitely a bad habit!
 - How are you supposed to learn a software if you're afraid of an unknown button? This philosophy of mine both helped and got me into a tons of troubles.
@@ -53,11 +58,6 @@ Let's make this repo an experience sharing BLOG-like-thing where we will share o
 -  In C or C++, we cannot return multiple values from a function directly. But, We can return more than one values from a function by using the method called “call by address”, or “call by reference”. In the `invoker function`, we will use two variables to store the results, and the function will take pointer-type data. So we have to pass the address of the data.
 -  `strlen()` works perfectly in char type array AKA string. But, return zero if there is no element and return if there are ANY ELEMENT in the array.
 -  The allocation and deallocation for stack memory is automatically done. Since the stack memory of a function gets deallocated after the function returns, there is no guarantee that the value stored in those areas will stay the same. A common mistake is to return a pointer to a stack variable in a helper function.
-
-## IbnulAbrarShahriarSeam
-- Read the problem statement carefully.
-- Try to find a mathematical solution rather than using a loop. Loops take a huge amount of time and memory to execute. A mathematical solution is almost always more efficient.
-- If you are working with an integer-type variable, try not to use something that returns double or floating-point values (e.g., pow()). As it may result in unexpected behavior.
 
 # Contribution
 
