@@ -2,6 +2,10 @@
 Let's make this repo an experience sharing BLOG-like-thing where we will share our experiences of getting stucked or encountering errors as beginner (new programmer) (self solved or solved by frnd in inbox)
 
 
+## sharafat
+- At first I just used to read and read without practicing. Which is definitely a bad habit!
+- How are you supposed to learn a software if you're afraid of an unknown button? This philosophy of mine both helped and got me into a tons of troubles.
+
 ## KaziRifatMorshed
 - STOP USING white-spaces (or simply, space) while naming a folder or file. It just looks nice and human readable but the terminal feels uncomfortable if it encounters a path containing white-spaces. IT IS A BAD PRACTICE, STOP DOING IT FROM RIGHT NOW.
 - `%0.0f` is a good idea to remove after-point part of the floating number(from showing/printing (by the console)). Actually it is a way of defining how many blocks/spaces/digits you want to show. 0.0 means there will be no after point part. 0.2 means there will be 2 digits after point-sign. `%3.4f` means there will be 3 digits before the point and 4 digits after the point.
@@ -89,10 +93,6 @@ Let's make this repo an experience sharing BLOG-like-thing where we will share o
 - Read the problem statement carefully.
 - Try to find a mathematical solution rather than using a loop. Loops take a huge amount of time and memory to execute. A mathematical solution is almost always more efficient.
 - If you are working with an integer-type variable, try not to use something that returns double or floating-point values (e.g., pow()). As it may result in unexpected behavior.
-
-## sharafat
-- At first I just used to read and read without practicing. Which is definitely a bad habit!
-- How are you supposed to learn a software if you're afraid of an unknown button? This philosophy of mine both helped and got me into a tons of troubles.
 
 # Contribution
 
