@@ -85,14 +85,14 @@ Let's make this repo an experience sharing BLOG-like-thing where we will share o
 - Generate random number `int r = rand() % 20;` and use MODULO(%) for overflow safety purpose.
 - if `f=10.5` then `printf(“%d\n”,(int)f);` will output `10` but `printf(“%d\n”, f);` will output ZERO.
 
-## sharafat
-- At first I just used to read and read without practicing. Which is definitely a bad habit!
-- How are you supposed to learn a software if you're afraid of an unknown button? This philosophy of mine both helped and got me into a tons of troubles.
-
 ## IbnulAbrarShahriarSeam
 - Read the problem statement carefully.
 - Try to find a mathematical solution rather than using a loop. Loops take a huge amount of time and memory to execute. A mathematical solution is almost always more efficient.
 - If you are working with an integer-type variable, try not to use something that returns double or floating-point values (e.g., pow()). As it may result in unexpected behavior.
+
+## sharafat
+- At first I just used to read and read without practicing. Which is definitely a bad habit!
+- How are you supposed to learn a software if you're afraid of an unknown button? This philosophy of mine both helped and got me into a tons of troubles.
 
 # Contribution
 
